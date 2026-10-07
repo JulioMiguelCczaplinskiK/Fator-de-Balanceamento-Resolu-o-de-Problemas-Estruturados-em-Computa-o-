@@ -1,1 +1,1 @@
-# Fator-de-Balanceamento-Resolu-o-de-Problemas-Estruturados-em-Computa-o-
+# Fator-de-Balanceamento-RPEC
